@@ -77,3 +77,15 @@ header {
         height: 0;
         font-size: 0;
       }
+
+ img {
+ 	height:200px;
+	width:150px;
+ }
+
+ .cards {
+  width:128px;
+  height:256px;
+  display:inline-block;
+  background:no-repeat center / contain;
+}
